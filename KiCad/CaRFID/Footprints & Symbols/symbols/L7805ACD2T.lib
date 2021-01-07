@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L7805ACD2T
+#
+DEF L7805ACD2T U 0 40 Y Y 1 L N
+F0 "U" -402 229 50 H V L BNN
+F1 "L7805ACD2T" -403 -303 50 H V L BNN
+F2 "VREG_L7805ACD2T" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "34" 0 0 50 H I L BNN "PARTREV"
+F6 "STMicroelectronics" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -200 400 200 0 0 10 f
+X IN 1 -600 100 200 R 40 40 0 0 I 
+X OUT 3 600 100 200 L 40 40 0 0 O 
+X GND 4 600 -100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

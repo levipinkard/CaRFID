@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MCU_Microchip_ATmega")(type "KiCad")(uri "/home/lpinkard/Downloads/MCU_Microchip_ATmega")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/lpinkard/Downloads/0x2/KiCAD/2020-12-03_06-59-44/footprints.pretty")(options "")(descr ""))
+  (lib (name "3557")(type "KiCad")(uri "/home/lpinkard/Downloads/3557")(options "")(descr ""))
+)
